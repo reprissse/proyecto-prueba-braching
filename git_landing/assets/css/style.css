@@ -31,7 +31,7 @@ form {
   cursor: pointer;
   display: block;
   position: relative;
-  background-color: #f5f3f4;
+  background-color: #000000;
   padding: 20px 80px;
   margin: 0 auto;
   border-radius: 20px;
@@ -39,7 +39,7 @@ form {
 }
   
 .btn a {
-    color: black;
+  color: white;
   font-family: 'Open Sans', sans-serif;
   font-size: 1rem;
   font-weight: 300;
